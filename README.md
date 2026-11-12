@@ -1,4 +1,4 @@
-# Hi, I'm Komali Veerateja 👋
+# Hi, I'm Komali Veerateja 
 
 ### Python Developer | Software Developer | Data Analyst
 
